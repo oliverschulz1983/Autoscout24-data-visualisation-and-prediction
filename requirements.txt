@@ -1,9 +1,14 @@
 streamlit
-statsmodels
 pandas
 numpy
 matplotlib
 seaborn
-forecast
 scikit-learn
-
+introduction
+eda
+ml
+pred
+sklearn
+pathlib
+plotly
+xgboost
