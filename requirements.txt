@@ -7,7 +7,4 @@ seaborn
 statsmodels
 streamlit
 xgboost
-introduction
-eda
-ml
-pred
+
