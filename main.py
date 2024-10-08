@@ -40,7 +40,7 @@ data = eda.get_data()
 st.title("'AutoScout24 - Germany Cars Dataset' - Visualisation and Prediction")
 
 # Displaying the sidebar
-st.sidebar.image("autoscout24logo.png")
+st.sidebar.image("cars.jpg")
 st.sidebar.header("Navigation")
 
 # Setup navigation in sidebar
